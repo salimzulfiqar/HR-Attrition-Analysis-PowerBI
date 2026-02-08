@@ -111,7 +111,8 @@ The dashboard enables HR teams and business leaders to make **data-driven retent
 ---
 
 ## 📷 Dashboard Preview
-<img width="766" height="510" alt="image" src="https://github.com/user-attachments/assets/28e90c7b-d206-44d1-8d54-af9e9ecdaf80" />
+<img width="755" height="500" alt="image" src="https://github.com/user-attachments/assets/ede32e4b-ef4f-4620-bbfe-39d340e51f51" />
+
 <img width="760" height="507" alt="image" src="https://github.com/user-attachments/assets/318d20a4-f8fa-40fb-a741-0d5608de2811" />
 
 
